@@ -1,0 +1,17 @@
+jupyter
+descartes
+tqdm
+requests
+pandas
+geopandas
+shapely
+folium
+mapclassify
+networkx
+osmnx
+overpy
+geopy
+sklearn
+seaborn
+rtree
+keplergl
