@@ -1,4 +1,4 @@
-# Python and spatial data analysis
+## Python and spatial data analysis
 Short tutorial about geodata processing
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtuvaleva/Geo_PyData/master)
